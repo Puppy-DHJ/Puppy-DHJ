@@ -1,6 +1,6 @@
 # Puppy-DHJ 👋
 
-Hi there! I'm **Puppy**, a student from Huaqiao University.
+Hi there! I'm **Puppy**, a student from Huaqiao University.My primary language is C++、Golang、Java、Javascript/Typescript.
 
 ## Puppy's Development Environment
 
