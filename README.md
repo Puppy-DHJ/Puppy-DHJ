@@ -1,18 +1,12 @@
-## Hi there 👋
+# Puppy-DHJ 👋
 
-### About Me
-I'm Puppy, a student from Huaqiao University.
-<!--
-**Puppy-DHJ/Puppy-DHJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Puppy**, a student from Huaqiao University.
 
-Here are some ideas to get you started:
+## Puppy's Development Environment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![macOS](https://img.shields.io/badge/macOS-1d1d1f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+
+## Puppy's Github Stats
+
+![Puppy's GitHub stats](https://github-stats-extended.vercel.app/api?username=Puppy-DHJ\&theme=gruvbox)
