@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### About Me
+I'm Puppy, a student from Huaqiao University.
 <!--
 **Puppy-DHJ/Puppy-DHJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
