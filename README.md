@@ -1,7 +1,7 @@
 # Puppy-DHJ 👋
 
 Hi there! I'm **Puppy**, a 19-year-old student from Huaqiao University.
-My primary language is C++、Golang、Java、Javascript / Typescript.
+My primary language is `C++`、`Golang`、`Java`、`Javascript` / `Typescript`.
 
 > I have to work......(*life is repeated*) :(
 
