@@ -13,3 +13,4 @@ My primary language is `C++`、`Golang`、`Java`、`Javascript` / `Typescript`.
 ## Puppy's Github Stats
 
 ![Puppy's GitHub stats](https://github-stats-extended.vercel.app/api?username=Puppy-DHJ\&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puppy-DHJ&layout=compact)
